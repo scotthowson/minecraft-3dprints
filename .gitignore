@@ -1,0 +1,6 @@
+*.stl
+*.obj
+*.blend1
+*.tmp
+.DS_Store
+node_modules/
